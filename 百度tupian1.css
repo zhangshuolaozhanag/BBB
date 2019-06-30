@@ -268,4 +268,5 @@ relative : 　对象不可层叠，但将依据left，right，top，bottom等属
     width:100%;
     height: 100px;
     bottom: 0;
-    text-align: center;/*下角标居中显示*/
+    text-align: center;
+}/*下角标居中显示*/
